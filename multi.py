@@ -1,5 +1,5 @@
 number = int(input("Enter a number: "))
-
+print("my name is rohit")
 print(f"\nMultiplication table of {number}")
 
 for i in range(1, 11):
